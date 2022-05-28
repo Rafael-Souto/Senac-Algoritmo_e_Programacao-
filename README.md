@@ -1,3 +1,3 @@
-# Senac-Algoritmo_e_Programacao
+# Senac - Algoritmo e Programacao
 
 ## Compras no mercado / Estrutura if else
