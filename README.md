@@ -1,3 +1,3 @@
-# Senac - Algoritmo e Programacao
+# Senac - Compras no Mercado
 
-## Compras no mercado / Estrutura if else
+## Algoritmo para escolher os itens e calcular o valor das compras no mercado.
